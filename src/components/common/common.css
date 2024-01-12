@@ -1,0 +1,24 @@
+.journey {
+  display: flex;
+  width: 100%;
+}
+.journey__left {
+  width: 50%;
+  /* height: 49px; */
+  flex-shrink: 0;
+  background: #00c5f6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+.journey__left p {
+  color: #fff;
+  text-align: center;
+  font-family: Banda Nova;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 53.6px;
+  width: 50%;
+}

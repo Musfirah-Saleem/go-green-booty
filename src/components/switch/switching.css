@@ -1,0 +1,31 @@
+.switching__main {
+    width: 70%;
+    margin: auto;
+    border-radius: 38px;
+    background: #00C5F6;
+    text-align: center;
+    padding: 42px 0px
+}
+
+.switching__part {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    border-radius: 11px;
+    border: 2px solid #FFF;
+    width: 30%;
+    margin: auto;
+    padding: 10px;
+}
+
+.switching__part .connect {
+    color: #FFF;
+    font-family: Banda Nova;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: bold !important;
+    line-height: normal;
+    text-transform: uppercase;
+    margin-top: 4px;
+}

@@ -1,0 +1,31 @@
+<svg width="30" height="29" viewBox="0 0 30 29" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="30" height="29" fill="#1E1E1E"/>
+<g id="Home Animation Screen" clip-path="url(#clip0_0_1)">
+<rect width="1440" height="9888" transform="translate(-635 -2165)" fill="white"/>
+<rect id="Rectangle 1274" x="-565" y="-146" width="1291" height="234" rx="49" fill="#00C5F6"/>
+<g id="Frame 35648">
+<g id="Button Drawer">
+<rect x="-51.5" y="-13" width="249" height="55" rx="10" stroke="white" stroke-width="2"/>
+<g id="Group 35656">
+<g id="Group 35655">
+<g id="Group 35654">
+<circle id="Ellipse 29" cx="16.8361" cy="12.5004" r="11.7238" stroke="white"/>
+<circle id="Ellipse 30" cx="16.7799" cy="12.5565" r="9.41421" stroke="white"/>
+<path id="Vector 7" d="M7.20361 28.7237L12.1607 23.7666H21.399L26.3561 28.7237H7.20361Z" fill="white"/>
+<path id="Vector 3" d="M10.585 19.5418L23.6537 6.58569" stroke="white"/>
+<path id="Vector 5" d="M7.26858 13.0949L26.4329 13.0528" stroke="white"/>
+<path id="Vector 6" d="M9.90626 6.13501L23.0876 19.2037" stroke="white"/>
+<path id="Vector 4" d="M17.0474 3.4707L17.0474 21.8365" stroke="white"/>
+</g>
+<path id="Polygon 3" d="M5.39014 4.372C5.52777 4.02221 5.98769 3.94367 6.23359 4.22797L10.3906 9.0341C10.6454 9.32865 10.4805 9.7885 10.0966 9.85405L3.61304 10.9612C3.22916 11.0267 2.92101 10.6477 3.0636 10.2853L5.39014 4.372Z" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="1440" height="9888" fill="white" transform="translate(-635 -2165)"/>
+</clipPath>
+</defs>
+</svg>

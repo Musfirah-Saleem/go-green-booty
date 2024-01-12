@@ -1,0 +1,45 @@
+body {
+  overflow-x: hidden;
+}
+
+/* Reset to normalize browser styles */
+body,
+h1,
+h2,
+h3,
+p,
+ul,
+ol,
+li,
+figure,
+figcaption,
+blockquote,
+dl,
+dd,
+dt {
+  margin: 0;
+  padding: 0;
+}
+
+/* Box sizing border-box for easier layout */
+* {
+  box-sizing: border-box;
+}
+
+
+
+/* Links */
+a {
+  text-decoration: none;
+}
+
+textarea:focus,
+input:focus {
+  outline: 2px solid #00c5f6 !important;
+}
+
+/* Responsive images */
+img {
+  max-width: 100%;
+  height: auto;
+}

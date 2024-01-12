@@ -1,0 +1,38 @@
+.upper__cont {
+  position: relative;
+}
+
+.upper__cont p {
+  color: #00c5f6;
+  /* background-image: url(../../../../public/assets/Ellipse\ 23.svg); */
+  text-align: center;
+  font-family: Banda Nova;
+  font-size: 32.738px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  text-transform: uppercase;
+  position: relative;
+  z-index: 1;
+  margin-top: 80px;
+}
+.upper__cont img {
+  position: absolute;
+  left: 36%;
+  top: -90%;
+  /* margin-left: 500px; */
+  /* right: 110px; */
+  /* top: 10px; */
+}
+.lower__cont p {
+  color: #1e1e1e;
+  text-align: center;
+  font-family: Banda Nova;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 53.6px; /* 223.333% */
+  margin-right: 100px;
+  margin-left: 40px;
+  /* text-align: left; */
+}

@@ -1,0 +1,80 @@
+.card__main {
+    width: 90%;
+    margin: auto;
+}
+
+.custom__card {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+}
+
+.custom__card .card__inner {
+    border-radius: 30.4px;
+    background: #FFF;
+    box-shadow: -0.779px 3.118px 17.149px 0px rgba(83, 83, 83, 0.12);
+    width: calc(50% - 15px);
+    padding: 12.023px 0px 53.982px 0px;
+}
+
+.custom__card .card__inner img {
+    width: 100%;
+    height: auto;
+}
+
+.custom__card .pro__price {
+    color: #1E1E1E;
+    font-family: Banda Nova;
+    font-size: 28.061px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26.503px;
+    letter-spacing: 0.779px;
+}
+
+.custom__card .control {
+    color: #1E1E1E;
+    font-family: Banda Nova;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 0.39px;
+}
+
+.add__to__cart_btn {
+    border-radius: 8.019px;
+    font-family: Banda Nova;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    text-transform: uppercase;
+    padding: 17px 20px;
+    background: #00C5F6;
+    width: 60%;
+    color: #FFF;
+    border: none;
+    transition: all 0.7s ease;
+}
+
+.add__to__cart_btn:hover {
+    background: transparent;
+    border: 0.729px solid #00C5F6;
+    color: #00C5F6;
+    transition: all 0.7s ease;
+}
+
+
+/* medai query */
+@media screen and (max-width: 1250px) {
+    .custom__card {
+        flex-wrap: wrap;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .custom__card .card__inner {
+        width: 100%;
+    }
+}

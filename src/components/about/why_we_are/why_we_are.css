@@ -1,0 +1,22 @@
+.who__are__main {
+  width: 100%;
+  background: #62bc1d;
+  padding: 67px 143px ;
+  color: #fff;
+  text-align: center;
+  font-family: Banda Nova;
+}
+.who__are__main h3 {
+  font-size: 32.738px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+}
+.who__are__main p {
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 53.6px;
+}

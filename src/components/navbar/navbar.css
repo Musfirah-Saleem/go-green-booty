@@ -1,0 +1,115 @@
+.navbar__main__main {
+    width: 90%;
+    margin: auto;
+}
+
+.navbar-toggler:focus {
+    box-shadow: 0 0 10px rgba(0, 197, 246, 0.5);
+}
+
+.navbar__main__main .logo {
+    width: 360px;
+    height: 60px;
+}
+
+.nav__my__ul li a {
+    color: #00C5F6 !important;
+    font-family: Banda Nova;
+    font-size: 14.58px !important;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 10px;
+}
+
+.second__nav__ul {
+    gap: 100px;
+}
+
+.second__nav__ul li a {
+    font-size: 20px !important;
+    color: #00C5F6 !important;
+    font-family: Banda Nova;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}
+
+.right__side__btn {
+    display: flex;
+    align-items: center;
+}
+
+/* navbar button css */
+
+.sign__up__btn {
+    background: transparent;
+    border: 0.729px solid #00C5F6;
+    color: #00C5F6;
+    width: 125.388px;
+    transition: all 0.7s ease;
+}
+
+.sign__up__btn:hover {
+    background: #00C5F6;
+    color: #FFF;
+    border: none;
+    transition: all 0.7s ease;
+
+}
+
+.login__btn {
+    background: #00C5F6;
+    width: 129.033px;
+    color: #FFF;
+    border: none;
+    transition: all 0.7s ease;
+}
+
+.login__btn:hover {
+    background: transparent;
+    border: 0.729px solid #00C5F6;
+    color: #00C5F6;
+    transition: all 0.7s ease;
+}
+
+
+
+/* media query */
+
+@media screen and (max-width: 769px) {
+    .navbar__main__main {
+        width: 100% !important;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .navbar__main__main .logo {
+        width: 200px !important;
+        height: 40px;
+    }
+}
+
+@media screen and (max-width: 1600px) {
+
+    .second__nav__ul {
+        gap: 50px;
+    }
+}
+
+@media screen and (max-width: 1300px) {
+    .second__nav__ul {
+        gap: 30px;
+    }
+}
+
+@media screen and (max-width: 1090px) {
+    .second__nav__ul {
+        display: -webkit-box !important;
+    }
+
+    .second__nav__ul li a {
+        font-size: 18px !important;
+    }
+}
